@@ -1,0 +1,126 @@
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\appsettings.Development.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\appsettings.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\BaseAPI CRUD.exe
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\BaseAPI CRUD.deps.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\BaseAPI CRUD.runtimeconfig.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\BaseAPI CRUD.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\BaseAPI CRUD.pdb
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Azure.Core.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Azure.Identity.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Memory.Data.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Text.Json.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Services.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Services.pdb
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.csproj.AssemblyReference.cache
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.AssemblyInfoInputs.cache
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.AssemblyInfo.cs
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.csproj.CoreCompileInputs.cache
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets.build.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets.development.json
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\scopedcss\bundle\BaseAPI CRUD.styles.css
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.csproj.CopyComplete
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\refint\BaseAPI CRUD.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.pdb
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\BaseAPI CRUD.genruntimeconfig.cache
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\ref\BaseAPI CRUD.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\EntityFramework.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.CodeDom.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\EPPlus.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\EPPlus.Interfaces.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\PresentationFramework.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\ClosedXML.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\ExcelNumberFormat.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Irony.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\SixLabors.Fonts.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.IO.Packaging.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\XLParser.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\CommunityToolkit.HighPerformance.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\Minio.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Reactive.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\bin\Debug\net6.0\System.Reactive.Linq.dll
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets\msbuild.BaseAPI CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.BaseAPI CRUD.props
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BaseAPI CRUD.props
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BaseAPI CRUD.props
+E:\KIAI\C#\BaseAPI CRUD\BaseAPI CRUD\obj\Debug\net6.0\staticwebassets.pack.json

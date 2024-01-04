@@ -1,0 +1,14 @@
+E:\KIAI\C#\BaseAPI CRUD\Services\bin\Debug\net6.0\Services.deps.json
+E:\KIAI\C#\BaseAPI CRUD\Services\bin\Debug\net6.0\Services.dll
+E:\KIAI\C#\BaseAPI CRUD\Services\bin\Debug\net6.0\Services.pdb
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.dll
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\refint\Services.dll
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.pdb
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\ref\Services.dll
+E:\KIAI\C#\BaseAPI CRUD\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+E:\KIAI\C#\BaseAPI CRUD\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
