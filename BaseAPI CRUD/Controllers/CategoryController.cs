@@ -14,6 +14,7 @@ namespace BaseAPI_CRUD.Controllers
         {
             _categoryService = categoryService;
         }
+        //test_conflict_1
 
         [HttpGet("")]
         public IActionResult GetPagingProduct()
