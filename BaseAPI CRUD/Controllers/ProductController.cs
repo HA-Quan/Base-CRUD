@@ -17,7 +17,7 @@ namespace BaseAPI.Controllers
         {
             _productService = productService;
         }
-
+        //test_conflict_1
         [HttpGet("")]
         public IActionResult GetPagingProduct([FromQuery] string? keyword, [FromQuery] int categoryID = 0, 
                                                 [FromQuery] int pageSize = 20, [FromQuery] int pageNumber = 1)
