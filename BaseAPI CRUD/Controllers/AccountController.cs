@@ -37,7 +37,7 @@ namespace BaseAPI_CRUD.Controllers
                 return BadRequest(new ApiReponse
                 {
                     Success = false,
-                    Message = "Something is wrongs!"
+                    Message = "Something is wrongs test conflict!"
                 });
             }
         }
